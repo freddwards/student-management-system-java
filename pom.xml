@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>uk.ac.rhul.cs2800</groupId>
-	<artifactId>CW2</artifactId>
+	<artifactId>student-management-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CW2</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Student Management System API</name>
+	<description>Spring Boot REST API for managing students, modules, registrations and grades</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -69,8 +69,7 @@
       <artifactId>spring-boot-starter-security</artifactId>
     </dependency>
   </dependencies>
-
-  <!-- START: You can reuse this part for CW2 -->
+	
   <build>
     <plugins>
       <plugin>
@@ -202,6 +201,5 @@
       </plugin>
     </plugins>
   </reporting>
-  <!-- END: You can reuse this part for CW2 -->
 
 </project>
