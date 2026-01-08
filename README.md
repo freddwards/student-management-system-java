@@ -2,7 +2,7 @@
 
 ## Overview
 A Java Spring Boot REST API for managing students, modules, registrations, and grades.  
-Originally built for a university assignment and then cleaned up and published as a portfolio project.
+Originally built for a university assignment second year and then cleaned up and published as a portfolio project.
 
 ## Features
 - Manage Students and Modules
